@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  glad_gl.c
+  Generating Code...
+  threads.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2022\tests\Debug\threads.exe

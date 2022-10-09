@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/examples/CMakeLists.txt
+  offscreen.c
+  glad_gl.c
+  Generating Code...
+  offscreen.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2017\examples\Debug\offscreen.exe

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/examples/CMakeLists.txt
+  heightmap.c
+  glad_gl.c
+  Generating Code...
+  heightmap.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\build\examples\Debug\heightmap.exe

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vinay\Music\glfw_3_3_8\buildVS2019\CMakeFiles\8992c1d955e6a6f72a57a07977155121\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinay\Music\glfw_3_3_8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\vinay\Music\glfw_3_3_8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\vinay\Music\glfw_3_3_8\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\vinay\Music\glfw_3_3_8\buildVS2019\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E77739A3-CF57-3293-890C-46535BA0F0BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4828D16D-1EF8-3210-9484-D6D1A5796675}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

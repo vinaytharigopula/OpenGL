@@ -1,0 +1,10 @@
+^C:\USERS\VINAY\MUSIC\GLFW_3_3_8\BUILDVS2019\CMAKEFILES\243F503F59EE0B3EF2978EBFCB8C4FC8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vinay/Music/glfw_3_3_8 -BC:/Users/vinay/Music/glfw_3_3_8/buildVS2019 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vinay/Music/glfw_3_3_8/buildVS2019/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

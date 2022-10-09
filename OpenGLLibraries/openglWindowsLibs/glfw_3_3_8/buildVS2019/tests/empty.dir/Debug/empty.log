@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  glad_gl.c
+  Generating Code...
+  empty.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2019\tests\Debug\empty.exe

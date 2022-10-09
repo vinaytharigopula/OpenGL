@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  particles.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2019\examples\Release\particles.exe

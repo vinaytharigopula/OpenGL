@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  joysticks.c
+  glad_gl.c
+  Generating Code...
+  joysticks.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2017\tests\Release\joysticks.exe

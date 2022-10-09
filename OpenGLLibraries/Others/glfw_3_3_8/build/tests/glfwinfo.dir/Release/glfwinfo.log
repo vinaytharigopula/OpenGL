@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\build\tests\Release\glfwinfo.exe

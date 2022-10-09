@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  msaa.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  msaa.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2022\tests\Release\msaa.exe

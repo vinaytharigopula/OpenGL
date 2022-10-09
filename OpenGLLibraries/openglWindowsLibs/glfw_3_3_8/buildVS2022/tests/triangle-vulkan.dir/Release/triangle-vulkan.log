@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/vinay/Music/glfw_3_3_8/tests/CMakeLists.txt
+  triangle-vulkan.c
+  glad_vulkan.c
+  Generating Code...
+  triangle-vulkan.vcxproj -> C:\Users\vinay\Music\glfw_3_3_8\buildVS2022\tests\Release\triangle-vulkan.exe
